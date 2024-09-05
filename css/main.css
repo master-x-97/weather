@@ -1,0 +1,24 @@
+.bg-main{
+    background: #1e202b;
+}
+.bg2-main{
+    background:#323544;
+}
+.bg3-main{
+    background:#262936;
+}
+
+.banner{
+    background-image: url("../images/banner.png");
+    height: 20rem;
+    background-size:cover;
+}
+
+.degree{
+    font-size: 6rem;
+    font-weight: 600;
+
+}
+.w-30{
+    width: 30%;
+}
